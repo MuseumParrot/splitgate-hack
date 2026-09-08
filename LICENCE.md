@@ -6,7 +6,7 @@ Splitgate hack with aimbot, ESP, wallhack, no recoil, radar hack, and teleport. 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -69,7 +69,7 @@ Based on popular tools like **Universal Unreal Engine Cheats** and **Splitgate M
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Splitgate.
 4. Run the hack **as Administrator**.
